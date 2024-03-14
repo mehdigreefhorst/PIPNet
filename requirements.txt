@@ -1,0 +1,8 @@
+torch
+tqdm
+scikit-learn
+opencv
+pandas
+matplotlib
+torchvision
+fastai

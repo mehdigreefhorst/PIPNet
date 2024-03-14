@@ -218,3 +218,8 @@ def get_optimizer_nn(net, args: argparse.Namespace) -> torch.optim.Optimizer:
     else:
         raise ValueError("this optimizer type is not implemented")
 
+
+if __name__ == '__main__':
+    args = get_args()
+    #save_args(args, args.log_dir)
+    print(args)
