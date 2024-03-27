@@ -1,7 +1,7 @@
 torch
 tqdm
 scikit-learn
-opencv
+opencv-python
 pandas
 matplotlib
 torchvision
